@@ -1,0 +1,50 @@
+import {StyleSheet} from 'react-native';
+
+export const style = StyleSheet.create({
+  container: {
+    margin: 10,
+    backgroundColor: 'lightblue',
+    alignItems: 'center',
+    padding: 10,
+    borderColor: 'blue',
+    borderWidth: 1,
+    borderRadius: 10,
+    marginLeft: 100,
+    marginRight: 100,
+  },
+  textInputDesign: {
+    backgroundColor: '#f0f0f0',
+    borderRadius: 50,
+    marginTop: 15,
+    marginLeft: 50,
+    marginRight: 50,
+    padding: 15,
+    marginBottom: 15,
+    borderColor: 'black',
+    borderWidth: 1,
+  },
+  buttonText: {
+    fontSize: 17,
+    fontWeight: 'bold',
+    color: 'black',
+    padding: 1,
+  },
+  flatlistContainer: {
+    marginLeft: 50,
+    marginRight: 50,
+    minHeight: 130,
+    maxHeight: 130,
+    marginBottom: 5,
+    backgroundColor: 'white',
+    borderColor: '#009387',
+    borderWidth: 1,
+    borderRadius: 18,
+    marginTop: 10,
+    elevation: 20,
+  },
+  flatlistContent: {
+    padding: 20,
+    //justifyContent: 'center',
+    alignItems: 'center',
+  },
+});

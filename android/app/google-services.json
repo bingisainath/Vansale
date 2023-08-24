@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89818112101",
+    "project_id": "vansale-c5780",
+    "storage_bucket": "vansale-c5780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89818112101:android:b5d0e532460f1edfa3268c",
+        "android_client_info": {
+          "package_name": "com.vansale2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89818112101-6b1i4babl1g7s2qro0n1hp16h8u998hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vansale2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "89818112101-mub5j8t6ekvqu5ot6c6tbn4bqvsthsud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Rmcbz6YlFY94VN7hAzIG2iHWpvPm93k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89818112101-mub5j8t6ekvqu5ot6c6tbn4bqvsthsud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+app.tsx---statusbar light-content
+unloadScreen- View- backgound white ---421
+# invoice- 
+#     button color -- 292 -274 - color -- #0fd1ad
+#     border color -- 122,123
+#     110 - <View style={{backgroundColor:'white', flex:1}}>
+#     181 -  style={{
+#               marginLeft: 10,
+#               width: '20%',
+#               fontWeight: '700',
+#               fontSize: 15,
+#             }} -- all file
